@@ -1,0 +1,4 @@
+baseURL = "https://jdsantiagojr.github.io/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "xmin"
